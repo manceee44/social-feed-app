@@ -10,8 +10,6 @@ GetX State Management
 MVC Architecture
 Repository Pattern
 Reusable Widgets
-Read More / Read Less
-Comments Preview
 Error Handling
 Loading States
 
