@@ -1,16 +1,34 @@
-# inttask
+Social Feed App
 
-A new Flutter project.
+A Flutter application built for the Social Feed Interview Task.
 
-## Getting Started
+Features
+Post Feed Screen
+Post Details Screen
+API Integration
+GetX State Management
+MVC Architecture
+Repository Pattern
+Reusable Widgets
+Read More / Read Less
+Comments Preview
+Error Handling
+Loading States
 
-This project is a starting point for a Flutter application.
+Architecture
 
-A few resources to get you started if this is your first Flutter project:
+MVC + Repository Pattern
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+lib/
+├── app/
+├── data/
+├── modules/
+├── widgets/
+└── utils/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+State Management
+
+GetX is used for:
+
+State Management
+Navigation
